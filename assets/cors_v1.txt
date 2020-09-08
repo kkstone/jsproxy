@@ -3,6 +3,7 @@
 
 # google
 ssl.google-analytics.com
+recaptcha.net
 
 # [public]
 cdn.jsdelivr.net
